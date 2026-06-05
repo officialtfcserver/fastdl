@@ -1,0 +1,11 @@
+gfx/env/afrikaup.tga
+gfx/env/afrikadn.tga
+gfx/env/afrikaft.tga
+gfx/env/afrikalf.tga
+gfx/env/afrikart.tga
+gfx/env/afrikabk.tga
+maps/ksour.txt
+maps/ksour.bsp
+models/suckopack.mdl
+overviews/ksour.tga
+overviews/ksour.txt
