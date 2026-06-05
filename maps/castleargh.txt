@@ -1,0 +1,19 @@
+Castle Arrrrgh!
+
+By: John Fuller
+Aka: Drunken Gun, 007
+
+This is an attack/defend style map based in a medieval castle.  
+It consists of 3 rounds that the attackers must capture, like the map Dustbowl.
+Simply unzip the castleargh.bsp file to your half-life/tfc/maps directory and enjoy!
+
+----Special Thanks to-----
+
+-[WTF?] Clan: For their masterpiece "maya", and it's help in my learning on how to build
+  attack/defend maps.
+
+-3v | Smack: For his assistance in building the map.
+
+-3v | Schrodinger's Cat: For his help with advice and testing of the map.
+
+-Entire 3v Clan: Just for being there for support :) 
