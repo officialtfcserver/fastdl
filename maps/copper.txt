@@ -1,0 +1,30 @@
+***********************************
+*****                                    *****
+*****              Copper             *****
+*****                                    *****
+***********************************
+
+By pip 5/1/2024
+piptfc@gmail.com
+
+
+| Invade and defend | Teamswitch |
+
+Objective: Blue team starts as the attacker.
+Red team starts as the defender. The attacking
+team starts in zone one and must gain 
+control of the map by capturing the 
+Command Points sequentially.
+
+The defending team simply tries to hold out as
+long as they can. Once the attackers succeed,
+teams swap, and play begins again.
+
+Scoring:
+Attacking team - 10 points per Command Point
+captured.
+Defending team - 1 point every 15 seconds
+
+
+Special thanks to: Suicide_kid, Togra, Cyko_dad, and
+the Old School TFC community!
