@@ -1,0 +1,21 @@
+---------------------------------------
+PIEBOWL! - A Dustbowl Alternative
+---------------------------------------
+
+For all those pie lovers, you know who you are!
+
+Objective: Blue team must take their pie to
+Red team's Bowl to win the game. 
+There are two command pies on the way 
+which must be secured in order.
+
+Scoring:  Red team - 5 points per minute
+           Blue team - 30 points per capture
+                       - 254 points for BOWL!
+				                      - 314 points total! (pie for the win!)
+
+Other Notes: When a capture point is secured, 
+spawn points are revised and a new pie 
+appears. Rounds last 25 minutes.
+
+PIE ON!
