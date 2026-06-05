@@ -1,0 +1,19 @@
+       
+                       Castle Argh 3 
+                The Quest for the Cathedral
+
+         ----------------------------------------
+    Architecture/Layout: John "Drunken Gun, 007" Fuller
+    Coding/Entities:     Drew "KrunchyWater" Andrade
+    Textures:		 Bryan "Zouave" Dillow
+
+The long-awaited map, this nearly took a year from start to completion.
+The trek to finish it was riddled with bugs, changes, and cursing.
+              I hope you enjoy it... dammit.    
+
+The map is Avanti styled, with four capture points.  The attacking side
+must open the drawbridge to advance to cap 1, and the rest is 
+self-explanatory.  Look for little perks :)        
+ 
+
+
