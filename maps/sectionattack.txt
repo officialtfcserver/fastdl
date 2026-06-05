@@ -1,0 +1,17 @@
+One team attacks and the other defends. After 
+the attackers succeed in capturing both command 
+points, teams will switch and start over.
+
+Attackers receive 5 points per capture, 
+defenders receive 1 point per minute while 
+gates are up.
+
+Lasers designate protected areas, you may only 
+walk through lasers that are your team's color.
+
+
+
+Map by Togra
+
+Thanks to Suicide Kid and the 
+Old School community for testing
