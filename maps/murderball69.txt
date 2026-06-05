@@ -1,0 +1,34 @@
+________________________________________________
+
+               * MURDERBALL 69 *
+________________________________________________
+made by redux:  02/25/26
+
+CLASSIC FOUR TEAM MURDERBALL ACTION 
+
+Objective:
+Take the ball from the center and hold it as long as possible.  
+
+Scoring:
+Team and individual points increase every 5 seconds.
+
+Other notes:
+Ball carriers drop the ball when they die.
+Dropped balls return to the center immediately.
+
+Players are NOT allowed in SPAWN with ball.
+Any attempt will result in SUDDEN DEATH.
+ 
+Watch out for the CRUSHER in the backdoor base entrance.
+Any team's CRUSHER can be activated by all teams.
+CRUSHER resets in 60 seconds.
+
+Credit to "TheDreadedPyro", based on the original Murderball 11/3/99
+
+________________________________________________
+
+This version is to fix crashing issues of "murderball99"
+along with some minor visual updates
+
+
+
