@@ -1,0 +1,145 @@
+			*** Welcome To Temple of the Maya  ***
+
+**** This map designed for the Team Fortress Classic Half-Life mod ****
+
+================================================================
+Title			: Temple of the Maya 
+Status            : Final
+Map Size		: 12.6 megs unzipped (no that wasn't a typo), this includes custom textures, sky, sound, models,
+			  and the .rmf (yes the WC file we used to make the map).
+Date Started	: Aug 30th/2000
+Date Completed	: Feb 6/2001
+Filename		: maya.zip
+Author(s)		: [WTF?]Dr_Bones & [WTF?]sHINMA 
+Email Address	: bones@lowlife.com & shinma@mapper.org
+ICQ			: 42188616 & 20337249
+Website		: http://www.mapper.org/dr_bones
+			: http://www.mapper.org/shinma
+Description		: Team Fortress 1.5 CTF map (Dustbowl Type)
+Number of Teams	: 2 
+Recommended # of Players: 10-32 (5 to 16 per team) 
+
+================================================================
+New Textures	: Yes, see credits below
+New Sky		: Yes, jungle1 by Nexus
+New Skins/Models	: Yes, WTF? packs by [WTF?]Snowdog and flags by [WTF?]Un_Ethical
+New Sounds		: Yes, 7, included in sound/maya folder 
+Editor used		: Worldcraft 3.3, MS Notepad, Wally 1.53b, Pakscape, Goldwave, HL Model Viewer, Paint Shop Pro 7
+Compiler          : Q2Beaver, HLCM & ZHLT v. 2.4.2
+================================================================
+
+INSTALL INFORMATION:
+
+Just unzip into your halflife directory. All the files 
+will go into their right spots. If you don't use winzip (shame on you),
+
+.tga files go to tfc/gfx/env
+.bsp and .txt files go to tfc/maps
+.wav files go to tfc/sound/maya
+.mdl files go to tfc/models
+
+Yes, I forgot one other file. The .rmf file is for use in Worldcraft.
+There was a discussion between Bones and I about releasing this with the
+finished product and we both agreed that we would do what we could for the
+community by including this.
+Mappers, you are forewarned to not use it as a base (as we have copyrighted it),
+but to use it to learn from. This is our present to you, the TFC faithful and
+aspiring mappers, for whom we slave long nights in our spare time to
+entertain. Where's TF2? I have a new editor to learn....
+
+						- [WTF?]sHINMA
+
+================================================================
+
+MAP BACKGROUND INFORMATION:
+
+There has been a terrible injustice done to the blue team and their ancestral home.
+The red team has come to loot all of their artifacts and sell them on the black market.
+Luckilly, the blue team has arrived just as the red team started to crate everything up!
+
+================================================================
+
+PLAY INFORMATION:
+ 
+This is a Dustbowl style map. The object is for the blue team to attack the red team and bring their flags to the capture points.
+This is done in sequential stages. The first takes blue, from their shrine,into the beginning of the Mayan city, Teotihuacan.
+The second is fought amidst a "fortification" of sorts, and the final stage is to capture the Temple of Quetzlcoatl by planting the
+blue flag in the observatory and unleashing his godly wrath of flame.The only saving grace for the red team is that blue has been given
+a mere 25 minutes to complete their mission.
+
+================================================================
+
+SCORING:
+
+Red Team  - 5 points per minute Temple is held.
+Blue Team - 30 points for capturing the entrance to Teotihuacan.
+	    - 30 points for capturing the fortification.
+	    - 50 points for capturing the Temple of Quetzlcoatl.
+
+Other Notes: Flags return after 60 seconds. Flag carriers move at 75%.
+This is probably the truest to the original dustbowl style map to date.
+ 
+================================================================
+
+COMPLETED MAPS:
+
+[WTF?]Dr_Bones:
+
+Castle Wars, Armageddon, Pharaoh's Curse, War Of Ages, Dragonlords,  
+Dragonlords (Special Edition), Pharaoh's Curse II, cs_Armageddon, Darksouls,
+Beer Run (revised), and now Temple of the Maya.
+
+[WTF?]sHINMA:
+
+Stargate, Night Touch, de_stargate, cs_stargate, de_darkyard,
+Beer Run (revised), and now Temple of the Maya.
+
+================================================================
+
+UPCOMING MAPS:
+
+[WTF?]Dr_Bones:
+
+Scouts Honor, Castle Wars II, Armageddon II, Fortress, and more.
+Check out my mapfinger page for full details on my upcoming levels including screenshots.
+
+[WTF?]sHINMA:
+
+Titan & Mutieville for the Judgement mod, Farewell Horizontal, and more. Watch mapfinger and the Department of Engineering for more info.
+================================================================
+
+SPECIAL THANKS AND CREDITS TO:
+
+- Rewolf for the textures from Gunman Chronicles, your logo is the Easter Egg.
+
+- Macman for textures from de_aztec.wad
+
+- Nexus for the great sky. To be found, of course, at The Wadfather. http://wadfather.game-edit.com/
+
+- [WTF?]Mr. Gibs for the custom credits textures, and for his fantastic work at The Wadfather!
+
+- Clan [WTF?] for all the beta testing, and help you've given in small ways.
+
+- [WTF?]Snowdog especially, for his fantastic front end, the HLCM!
+
+================================================================
+
+COPYRIGHT INFORMATION:
+
+Temple of the Maya is copyrighted 2001, [WTF?]Dr_Bones & [WTF?]sHINMA
+
+
+Authors MAY NOT use this level as a base to build additional levels. 
+
+You MUST NOT distribute this level UNLESS you INCLUDE THIS FILE WITH
+NO MODIFICATIONS!!!. If you don't co-operate, then DON'T DISTRIBUTE
+IT IN ANY FORM!!.
+
+This BSP may be distributed ONLY over the Internet and/or BBS systems.
+You are NOT authorized to put this BSP on any CD or distribute it in
+any way without my permission.
+
+================================================================ 
+
+
+
