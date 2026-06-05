@@ -1,0 +1,43 @@
+________________________________________________
+
+              * DISTRICT - BETA 3 *
+________________________________________________
+made by redux:  1/06/26
+
+ADL - ATTACK AND DEFEND
+
+
+Objective: Blue team starts as the attacker.
+Red team starts as the defender. The attacking
+team starts at entrance of the industrial district
+and must take control by moving uphill and
+taking control of Command Points sequentially.
+The defending team simply tries to hold out as
+long as they can. Once the attackers succeed,
+teams swap, and play begins again.
+
+Command Points are captured by taking the flag
+from the previous point and carrying it to the
+next. When a Command Point is secured, the flag
+required to capture the next Command Point 
+appears on top of it. For example, the flag 
+needed to capture Command Point 3 will always 
+spawn at Command Point 2. Dropped flags return
+after 15 seconds.
+
+Scoring:
+Attacking team - 10 points per Command Point
+captured.
+Defending team - Points are awarded over time
+for defending the industrial district
+________________________________________________
+Changelog from Beta 2:
+
+Added more signs showing command point owners between each CP
+Overhauled lighting in entire map
+Added building between CP2 & CP3 
+Added more visual detail, including pathways
+Added additional resupply as follows:
+-Ammo & cells only engineer platform CP3
+-1 bag added near CP4 defender spawn 50h, 50a, 100c (10s)
+Fixed defender spawn laser
