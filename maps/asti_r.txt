@@ -1,0 +1,19 @@
+Asti - Invade & Defend
+
+by [rogue]Pet
+
+designed for 3v3
+
+Objective: Blue team starts as the attacker, red team
+as the defender.  The attacking team must capture
+point 1 (in the yard), point 2 (on the upper road) and
+point 3 (in the center building with the balcony).
+
+Once all 3 points are capped successfully, teams swap
+and play begins again.  Dropped flags return after 30
+seconds.
+
+Scoring: Attacking team - 10 points per command
+point, defending team gets 5 points every 30
+seconds.
+

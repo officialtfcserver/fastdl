@@ -1,0 +1,14 @@
+gfx/env/corndn.bmp
+gfx/env/cornbk.bmp
+gfx/env/cornft.bmp
+gfx/env/cornlf.bmp
+gfx/env/cornrt.bmp
+gfx/env/cornup.bmp
+gfx/env/cornup.tga
+gfx/env/corndn.tga
+gfx/env/cornft.tga
+gfx/env/cornlf.tga
+gfx/env/cornrt.tga
+gfx/env/cornbk.tga
+maps/cornfield.txt
+maps/cornfield.bsp

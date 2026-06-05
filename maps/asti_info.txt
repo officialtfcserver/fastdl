@@ -1,0 +1,64 @@
+Title 			:asti_r
+Filename		:asti_r.bsp
+
+Author			:[rogue]Pet.id
+Email address 		:pet@rogue-hq.com
+Websites 		:http://www.deadlysix.com/rogue (old site)
+			:http://www.rogue-hq.com
+			:http://www.invade-defend.com
+
+Description		:Avanti-style, small and quick, this one's designed
+			for 3v3 specifically.
+
+Map Information		:New textures, no new sounds, 3rd party skybox
+
+Type   			:TFC
+(DM, SP, TFC, TF2)
+
+Status         		:revised
+(beta, revised, final)	:This release candidate contains a new room, and better
+			:balancing of class primary and secondary nades to 
+			:reduce spam. Also a few more signs to help find cap 3.
+			:Nade bags spawn in 30 secs instead of 10 secs.
+			:{F}ARM GUILD grand prize for their 5v5 Asti tournament
+			:in January 2005 was winning team's name in the map,
+			:congrats noKturnal!
+
+----------------------
+   ACKNOWLEDGEMENTS
+----------------------
+KrunchyWater for entity help
+[RzP]speed|Rx, Ewok.id, Troile.id, Thursday.id^wB, Sparky.id, MSE.id, 
+NukemsEvilTwinRipm2Shreds.id, Atomsmasher.id for suggestions
+Dave.id for his enthusiasm
+Crazy Pyro.id for noticing the flag stealing bug
+other .id members for playtesting help
+[TFCC]Captain W0nder.id^wB for the strip club idea
+Zoner's Half-Life Tools
+Whomever created the lovely skybox (couldn't find your name)
+{FARM} Guild for the asti tournament idea
+Thanks to SuLLiFieD of clan LM (lastminute) for helping with the scoring fix!
+
+----------------------
+   ADDITIONAL INFO
+----------------------
+
+Copyright / Permissions
+
+This map covered by the Creative Commons License
+http://creativecommons.org
+
+You are free:
+
+to copy, distribute, display, and perform the work 
+to make derivative works 
+Under the following conditions:
+
+ Attribution. You must give the original author credit. 
+ Noncommercial. You may not use this work for commercial purposes. 
+ Share Alike. If you alter, transform, or build upon this work, 
+ you may distribute the resulting work only under a license identical to this one. 
+
+For any reuse or distribution, you must make clear to others the license terms of this work. 
+Any of these conditions can be waived if you get permission from the copyright holder. 
+Your fair use and other rights are in no way affected by the above.
