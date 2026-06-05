@@ -1,0 +1,37 @@
+Castle Arrrrgh!
+
+By: John Fuller
+Aka: Drunken Gun, 007
+
+Castleargh2 is the revision of the first,
+due to some comments. You'll find more textures,
+a slightly larger playing field, more points of
+interest, and the general absence of the
+previous bugs. There are a few little things like
+cracked walls and water errors, but I didn't see
+them as big enough to have to send this off to be
+compiled by a friend again. And for those who seem
+to think I failed in keeping blue from getting
+grenades on round 3 (THAT IS ON PURPOSE). They just
+have to work a little harder =).
+
+----Description----
+
+This is an attack/defend style map based in a
+medieval castle.  It consists of 3 rounds that the
+attackers must capture, like the map Dustbowl.
+Simply unzip the castleargh2.bsp file to your
+half-life/tfc/maps directory and enjoy!
+
+----Special Thanks to----
+
+-[WTF?] Clan: For their masterpiece "maya", and it's
+  help in my learning on how to build attack/defend maps.
+
+-3v | Smack: For his assistance in building the map (Again)
+
+-3v | Schrodinger's Cat: For his help with advice and testing of the map.
+
+-Monty Python and the Quest for the Holy Grail: 'Nuff said.
+
+-Entire 3v Clan: Just for being there and supporting me! =)
