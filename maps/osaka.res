@@ -1,0 +1,15 @@
+gfx/env/osakabk.tga
+gfx/env/osakadn.tga
+gfx/env/osakaft.tga
+gfx/env/osakalf.tga
+gfx/env/osakart.tga
+gfx/env/osakaup.tga
+maps/osaka.bsp
+maps/osaka.txt
+osaka_readme.txt
+models/osakaflag.mdl
+sound/ambience/chimandolin.wav
+sound/ambience/flute.wav
+sound/ambience/water_flowing3.wav
+sound/vox/conch.wav
+sound/vox/osaka_finale.wav
