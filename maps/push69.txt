@@ -1,0 +1,34 @@
+________________________________________________
+
+                   * PUSH 69 *
+________________________________________________
+made by redux:  02/25/26
+
+Classic football rules, new look for 2026.
+
+Objective: 
+Grab the ball from the center of the field.
+Run it into the ENEMY base and place it on the 
+raised capture point to score a goal.
+
+Scoring:
+10 team points per goal.
+5 individual points per goal.
+
+Other Notes: 
+Ball carriers drop the ball when they die. 
+Dropped balls stay on the ground for 30 seconds.
+All players are reset whenever a goal is scored.
+Buildables are also reset whenever a goal is scored.
+
+Watch out for the CRUSHER in each base.
+Each CRUSHER can be activated by either team.
+A bonus weapon can be acquired behind the CRUSHER...
+
+Unlike the classic PUSH, all classes are fair game.
+
+________________________________________________
+
+Questions, comments, and any criticism is welcome
+to me on the TFC Mappers and other server specific 
+discord channels.
