@@ -1,0 +1,16 @@
+Troy2 - Invade and defend
+
+The Attackers must capture all FOUR command points 
+in sequence to take the city of Troy.
+
+The Defenders must defend the command points 
+in the city of Troy against the Attackers.
+
+When all the command points in the city of Troy 
+are captured, the city is lost and a new round 
+begins.  The attackersbecome the defenders and 
+the defenders must now attack the city.
+
+Scoring: Attackers - 10 points per command point, 
+	 Defenders - 1 point every 15 seconds defending
+	 
