@@ -4,12 +4,12 @@
 // For more info go to http://resgen.hltools.com
 
 // .res entries (22):
-gfx/env/dustbowlbk.tga
-gfx/env/dustbowldn.tga
-gfx/env/dustbowlft.tga
-gfx/env/dustbowllf.tga
-gfx/env/dustbowlrt.tga
-gfx/env/dustbowlup.tga
+gfx/env/dustbowlBK.tga
+gfx/env/dustbowlDN.tga
+gfx/env/dustbowlFT.tga
+gfx/env/dustbowlLF.tga
+gfx/env/dustbowlRT.tga
+gfx/env/dustbowlUP.tga
 halflife.wad
 models/backpack.mdl
 models/ozz/pie.mdl
