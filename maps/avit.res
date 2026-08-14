@@ -12,7 +12,7 @@ models/avit/girl4.mdl
 models/avit/nympho.mdl
 models/avit/stella.mdl
 sound/avit/aircraft.wav
-sound/avit/Bell.wav
+sound/avit/bell.wav
 sound/avit/bell_peel.wav
 sound/avit/doorstop2.wav
 sound/avit/lookin_at.wav
