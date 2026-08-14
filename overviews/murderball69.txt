@@ -1,0 +1,14 @@
+// overview description file for murderball69
+
+global 
+{
+	ZOOM	1.05
+	ORIGIN	112	0	640
+	ROTATED	1
+}
+
+layer 
+{
+	IMAGE	"overviews/murderball69.tga"
+	HEIGHT	-1
+}

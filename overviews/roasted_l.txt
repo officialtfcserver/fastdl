@@ -1,0 +1,12 @@
+global
+{
+ZOOM	1.22
+ORIGIN	416 -192 -801
+ROTATED	1
+}
+
+layer
+{
+IMAGE	"overviews/roasted_l.tga"
+HEIGHT	-801
+}

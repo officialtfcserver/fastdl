@@ -1,0 +1,12 @@
+global
+{
+ZOOM	0.78
+ORIGIN	80 -8 -1025
+ROTATED	0
+}
+
+layer
+{
+IMAGE	"overviews/osaka.tga"
+HEIGHT	-1025
+}

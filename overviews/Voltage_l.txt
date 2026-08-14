@@ -1,0 +1,12 @@
+global
+{
+ZOOM	1.08
+ORIGIN	816 0 -513
+ROTATED	0
+}
+
+layer
+{
+IMAGE	"overviews/voltage_l.tga"
+HEIGHT	-513
+}

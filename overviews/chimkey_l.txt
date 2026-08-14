@@ -1,0 +1,12 @@
+global
+{
+ZOOM	1.16
+ORIGIN	0 0 -1729
+ROTATED	0
+}
+
+layer
+{
+IMAGE	"overviews/chimkey_l.tga"
+HEIGHT	-1729
+}

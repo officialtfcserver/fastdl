@@ -1,0 +1,14 @@
+// overview description file for asti.bsp
+
+global 
+{
+	ZOOM	1.52
+	ORIGIN	148	1632	-344
+	ROTATED	1
+}
+
+layer 
+{
+	IMAGE	"overviews/asti.tga"
+	HEIGHT	-344
+}

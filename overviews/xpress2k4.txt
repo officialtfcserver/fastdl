@@ -1,0 +1,12 @@
+global
+{
+ZOOM	1.38
+ORIGIN	0 0 -1217
+ROTATED	1
+}
+
+layer
+{
+IMAGE	"overviews/xpress2k4.tga"
+HEIGHT	-1217
+}

@@ -1,0 +1,14 @@
+// overview description file for district_b3.bsp
+
+global 
+{
+	ZOOM	0.96
+	ORIGIN	432 	-232	256
+	ROTATED	0
+}
+
+layer 
+{
+	IMAGE	"overviews/district_b3.tga"
+	HEIGHT	-257
+}
