@@ -4,12 +4,12 @@
 // For more info go to http://resgen.hltools.com
 
 // .res entries (20):
-gfx/env/avantibk.tga
-gfx/env/avantidn.tga
-gfx/env/avantift.tga
-gfx/env/avantilf.tga
-gfx/env/avantirt.tga
-gfx/env/avantiup.tga
+gfx/env/avantiBK.tga
+gfx/env/avantiDN.tga
+gfx/env/avantiFT.tga
+gfx/env/avantiLF.tga
+gfx/env/avantiRT.tga
+gfx/env/avantiUP.tga
 halflife.wad
 liquids.wad
 models/backpack.mdl

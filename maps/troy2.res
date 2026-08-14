@@ -15,21 +15,9 @@ troy.wad
 
 //sky files
 gfx/env/desnoonbk.tga
-gfx/env/desnoonbk.bmp
-gfx/env/desnoonbk.pcx
 gfx/env/desnoondn.tga
-gfx/env/desnoondn.bmp
-gfx/env/desnoondn.pcx
 gfx/env/desnoonft.tga
-gfx/env/desnoonft.bmp
-gfx/env/desnoonft.pcx
 gfx/env/desnoonrt.tga
-gfx/env/desnoonrt.bmp
-gfx/env/desnoonrt.pcx
 gfx/env/desnoonup.tga
-gfx/env/desnoonup.bmp
-gfx/env/desnoonup.pcx
 gfx/env/desnoonlf.tga
-gfx/env/desnoonlf.bmp
-gfx/env/desnoonlf.pcx
 
