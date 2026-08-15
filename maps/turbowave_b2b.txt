@@ -1,0 +1,23 @@
+=====================================
+Turbowave_b2b by Pheesh
+=====================================
+Changes: 
+-- Shortened Offensive spawn to FD
+-- Upped brightness even more
+-- Reshaped Lobby/RR/Side to improve offensive flow, defensive sightlines
+-- Added additional Sentry spots
+-- Added security fields to limit certain entrances
+-- Added countdown for button re-activation
+-- MAP IS NOT MIRRORED YET
+
+PLAY INFORMATION:
+
+
+Capture the flag map- Disabling security opens the water entrance for 40 seconds.
+
+Flag is captured on the battlements of your base.
+
+10 points per capture
+
+
+========================
