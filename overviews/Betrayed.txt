@@ -1,0 +1,12 @@
+global
+{
+ZOOM	0.8
+ORIGIN	224 48 -481
+ROTATED	0
+}
+
+layer
+{
+IMAGE	"overviews/betrayed.tga"
+HEIGHT	-481
+}

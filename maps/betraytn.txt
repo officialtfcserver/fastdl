@@ -1,0 +1,25 @@
+BETRAYED
+tiny size
+
+Objective: The Dictator must flee his
+wrecked truck through the Rebel village
+to the safety of the Holy Mosque.
+The assassins must stop him.
+
+Scoring:
+Blue/Red:
+15 pts. if the Dictator escapes.
+2 pts. for killing Rebel Leader.
+Yellow/Green:
+5 pts. for killing the Dictator.
+
+by HellFace - armstrong2@mindspring.com
+(c) 1999 Matthew Armstrong
+
+++++++++++++++++++++++++++++
+TINY SERVER: 8 players(10 max)
+hunted: 1
+Guards: 7
+Snipers: 2
+Leader: 0
+++++++++++++++++++++++++++++
