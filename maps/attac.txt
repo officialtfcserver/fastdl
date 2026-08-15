@@ -1,0 +1,38 @@
+Attack!
+
+Final version designed by sMeLLyCaT
+
+
+Designed solely for fast paced 8 player Offence vs Defence.
+
+
+OBJECTIVE:
+=============
+Blue team must steal red-teams flag and return it to the
+Capture Point in their spawn. Deactive security to allow 
+access to plank and top-way entrances. Beware of the 
+closing Fire Doors.
+
+After a set time, restart the map and swap teams.
+
+Red may vent the pressure (using the release button 
+in the T) from the pipes in the upper flag room entry
+every 30 seconds to potentially kill pesky attackers
+trying to sneak in.
+
+NOTES:
+==============
+Engineers may not build on the grating on main ramp area
+but may build on the red-tiles next to it. Additionally,
+to successfully build in the bay-windows in the FR one
+must crouch to avoid a bug-detonation of your SG.
+
+To use the 'airlift' to upper simply walk in to the wall 
+and jump.
+
+1 MC is recommended to avoid excessive spam.
+
+There is also an extra conc on mid-map but it takes much 
+time to obtain it.
+
+

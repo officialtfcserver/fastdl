@@ -1,0 +1,14 @@
+// overview description file for attac.bsp
+
+global 
+{
+	ZOOM	0.91
+	ORIGIN	-200.00	1088.00 0.00
+	ROTATED	0
+}
+
+layer 
+{
+	IMAGE	"overviews/attac.tga"
+	HEIGHT	-1233.00
+}
