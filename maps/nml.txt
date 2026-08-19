@@ -1,0 +1,17 @@
+No Mans Land - Capture The Flag
+
+Objective: Enter the enemy Base and make
+your way to the lower level where their Flag 
+resides in the enemy truck. Grab it and bring 
+it back to your Battlements. Place it on the 
+raised square to Capture it. 
+
+Scoring: 10 points per Capture. 10 frags to
+the player who captures it.
+
+Other Notes: Flag carriers drop the Flag when
+they die. Dropped flags return to their Base
+after 60 seconds.
+
+Map by UncleBRUCE (keith_s@netcomuk.co.uk)
+Have fun!!

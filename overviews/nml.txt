@@ -1,0 +1,12 @@
+global
+{
+ZOOM	1.14
+ORIGIN	64 284 -577
+ROTATED	0
+}
+
+layer
+{
+IMAGE	"overviews/nml.tga"
+HEIGHT	-577
+}
