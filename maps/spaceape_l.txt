@@ -1,0 +1,10 @@
+Spaceape_l - Capture The Flag
+By Manu
+
+Objective: Make your way to the enemy base and
+bring the flag back to your capture point for 
+10 points. 
+
+Other Notes: Flag carriers drop the Flag when
+they die. Dropped flags return to their Base
+after 60 seconds. 
