@@ -3,7 +3,8 @@
 // with serveral improvements and additions by Zero3Cool.
 // For more info go to http://resgen.hltools.com
 
-// .res entries (13):
+// .res entries (14):
+models/idbackpack.mdl
 models/avit/bigrat.mdl
 models/avit/discoman.mdl
 models/avit/gamer.mdl
